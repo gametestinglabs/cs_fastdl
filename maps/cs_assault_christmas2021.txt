@@ -1,0 +1,30 @@
+cs_assault_christmas2021- Hostage Rescue
+by Rain (apache17031992@gmail.com)
+Credits are included in the readme file.
+
+Description:
+An imaginary situation in an imaginary place.
+USA, New York, NYC, December 25th, 2021. Approximately
+ at 18:57 a group of heavily armed suspects approached 
+the Blargo Corp. warehouse at 72th street on a black 
+van, kicked the back door open and started an armed 
+raid, looking for what appears to be large sum of money, 
+secretly smuggled by the warehouse owners. One of the 
+security team members pushed alarm button and what was 
+supposed to be a quick hit-and-run job for the criminals, 
+turned into a barricaded hostage situation. Calls and 
+negotiations didn't succeed. After securing the perimeter 
+and escorting all of the civillians away from the 
+dangerous area, CT unit is ready to start the operation 
+on releasing the hostages. Little do they know, however, 
+is that local intellegence seriously miscalculated the 
+amount of criminals barricaded inside the warehouse and 
+their military experience, so that operation risks 
+to turn into a cursed bloodbath.
+
+Other Notes: There are 4 hostages
+in the mission. 2 are located upstairs, while other 2
+are in main hall. CTs can use bridge and break themselves
+a new entrance.
+
+(Press FIRE to continue)
